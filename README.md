@@ -1,7 +1,7 @@
 # Ionic 4 - To-Do App with Firebase 5
 [How to Create a Simple Ionic 4 App with Firebase 5 and AngularFire](https://youtu.be/H20l9ofyR54)
 
-<img src="" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic4-FirebaseTodo/blob/master/src/assets/screenshot.png" width="500"/>
 
 Features:
 > Loader
